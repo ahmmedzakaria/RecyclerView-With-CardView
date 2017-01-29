@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string-array name="name">
+        <item>Kazi Nozrul Islan</item>
+        <item>Lalon Fokir</item>
+        <item>Maolana Vashani</item>
+        <item>Nurul Islam Faruki</item>
+        <item>Chomok Hasan</item>
+        <item>Mashrafi Mortuza</item>
+        <item>Moshfiqur Rohim</item>
+        <item>Sakibul Hasan</item>
+    </string-array>
+    <string-array name="email">
+        <item>nozrul@gmail.com</item>
+        <item>lalon@gmail.com</item>
+        <item>vashani@gmail.com</item>
+        <item>faruki@gmail.com</item>
+        <item>chomok@gmail.com</item>
+        <item>mashrafi@gmail.com</item>
+        <item>moshfiq@gmail.com</item>
+        <item>sakib@gmail.com</item>
+    </string-array>
+</resources>
